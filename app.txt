@@ -1,2 +1,6 @@
 Initial project code with A Commit
+<<<<<<< HEAD
 Code added by remote developer with commit C
+=======
+Code added by local developer with commit D
+>>>>>>> 6f048e0 (Add local developer code with D commit)
